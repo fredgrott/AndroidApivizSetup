@@ -1,9 +1,13 @@
 AandroidApivizSetup
 ===================
 
-Simple Apiviz Setup for Androdi Developers using the Eclipse IDE. Note, to put 
+Simple Apiviz Setup for Android Developers using the Eclipse IDE. Note, to put 
 multiple paths per javadoc commandline you use the semi-colon between the paths(you will use it 
 to inlcude multiple android framework jars and your library jars for the project ).
+
+The other note is that for things like header, bottom,etc you can use the @argfilename
+to point to an argfile that has the stuff for that entity, easier to use when you have
+long things like the doctitile, etc.
 
 Read the jvadoc.xml ant file.
 
