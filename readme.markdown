@@ -20,6 +20,14 @@ The first pass looks like this:
 ![First Pass](https://github.com/shareme/AndroidApivizSetup/raw/master/readme.assets/firstpass.png)
 
 
+
+To Use
+=======
+
+Edit the javadoc.xml file to replace my paths with yours. Than right click file in your IDE and run as ant file.
+
+
+
 Resources
 =========
 
@@ -28,3 +36,9 @@ Resources
 [Javadoc Tool commandline options](http://docs.oracle.com/javase/1.4.2/docs/tooldocs/windows/javadoc.html#javadocoptions)
 
 [My blog](http://fredgrott.wordpress.com)
+
+
+License
+=======
+
+Apache License 2.0
