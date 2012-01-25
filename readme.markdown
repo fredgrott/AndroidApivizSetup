@@ -12,7 +12,13 @@ long things like the doctitile, etc.
 Read the jvadoc.xml ant file.
 
 Basic premise is that Google seems always to goof up the android sdk ant files so 
-run all stuff via IDE thus do nt have to wait to update any ant scripts, AGILE AT FULL SPEED.
+run all stuff via IDE thus do not have to wait to update any ant scripts, AGILE AT FULL SPEED.
+
+
+The first pass looks like this:
+
+![First Pass](https://github.com/shareme/AndroidApivizSetup/raw/master/readme.assets/firstpass.png)
+
 
 Resources
 =========
